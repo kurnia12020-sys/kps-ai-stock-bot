@@ -1,0 +1,1 @@
+import {Chat} from '@/components/chat';export default function ChatPage(){return <div className="page chat-page"><div className="eyebrow">AI ANALYST</div><h1>KPS AI Chat</h1><p className="muted">Tanya konsep saham, bandarmologi, atau diskusikan laporan data yang sudah diinput. Bot tidak mengklaim memiliki harga live.</p><Chat/></div>}

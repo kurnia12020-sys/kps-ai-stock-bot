@@ -1,0 +1,2 @@
+import {LoginForm} from '@/components/login-form';
+export default function Login(){return <main className="login-wrap"><div className="login-card"><div className="logo-mark">🐱</div><span className="eyebrow">PRIVATE EDITION</span><h1>KPS AI Stock Bot</h1><p>Terminal analisis saham pribadi. Masuk menggunakan akun owner yang telah dibuat di Supabase.</p><LoginForm/><small>Akses dibatasi. Tidak tersedia pendaftaran publik.</small></div></main>}

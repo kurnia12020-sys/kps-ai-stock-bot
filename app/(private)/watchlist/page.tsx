@@ -1,0 +1,1 @@
+import {Watchlist} from '@/components/watchlist';export default function WatchPage(){return <div className="page"><h1>Watchlist Pribadi</h1><p className="muted">Daftar ticker untuk dipantau. Belum ada sinkronisasi harga otomatis.</p><Watchlist/></div>}
